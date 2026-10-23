@@ -91,4 +91,3 @@ Este proyecto ha sido desarrollado bajo un enfoque de optimización extrema de r
 - **Desarrollador principal:** Juan Cervantes
 - **LinkedIn:** www.linkedin.com/in/juan-cervantes-simón-773257239
 - **Email:** juansimon4@gmail.com
-- **Web/Portafolio:** [Enlace opcional]
